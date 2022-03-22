@@ -1,7 +1,10 @@
 ### Hello Everyone! My name is Astuti 👋
-🌏 I'm Indonesian
-😊 I’m currently learning Golang
-🌷 Fun fact: I love outdoor activities such as swimming, cycling, etc.
+- 🌏 I'm Indonesian
+- 😊 I’m currently learning Golang
+- 🌷 Fun fact: I love outdoor activities such as swimming, cycling, etc. 
+
+[![Visits Badge](https://badges.pufler.dev/visits/astutirahmawati/astutirahmawati)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/astutirahmawati)](https://badges.pufler.dev)
 
 ![Astuti's GitHub stats](https://github-readme-stats.vercel.app/api?username=astutirahmawati&theme=gruvbox_light&show_icons=true)
 
