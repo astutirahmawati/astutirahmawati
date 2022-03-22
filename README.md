@@ -1,4 +1,10 @@
-### Hello Everyone! My name is Astuti 👋
+### 
+<div align="center">
+  <img src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="600" height="300"/>
+</div>
+https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif
+
+Hello Everyone! My name is Astuti 👋
 - 🌏 I'm Indonesian
 - 😊 I’m currently learning Golang
 - 🌷 Fun fact: I love outdoor activities such as swimming, cycling, etc. 
